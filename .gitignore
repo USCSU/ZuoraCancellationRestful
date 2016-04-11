@@ -1,0 +1,9 @@
+.class
+input/
+*logs/
+target/
+.classpath
+.project
+.settings/
+bin/
+/resources
